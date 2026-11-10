@@ -4,7 +4,7 @@ Software Engineering Student @ Faculty of Information Technologies, Džemal Bije
 
 
 ## Current focus
-Currently, outside of my university coursework, I am focusing on learning the skills and technologies required for a career in Data Engineering.
+Currently, outside of my university coursework, I am focusing on learning the skills and technologies used in Data Engineering.
 
 I am currently looking for internship opportunities where I can apply and further develop these skills.
 
